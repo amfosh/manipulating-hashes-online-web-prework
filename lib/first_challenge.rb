@@ -18,3 +18,4 @@ contacts.each do |person, data|
       favorite_icecream_flavors.delete_if {|key, value| key == "strawberry" }
   contacts
 end
+end
