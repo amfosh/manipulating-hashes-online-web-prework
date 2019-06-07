@@ -7,4 +7,5 @@ def second_challenge
   }
 
 groceries.keys
+keys
 end
