@@ -20,4 +20,4 @@ contacts.each do |person, data|
   #remember to return your newly altered contacts hash!
   contacts
 end
-
+end
