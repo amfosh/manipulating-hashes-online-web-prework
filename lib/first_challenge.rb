@@ -20,3 +20,4 @@ contacts["Freddy Mercury"].each do |attribute, value|
   end
   contacts
 end
+end
