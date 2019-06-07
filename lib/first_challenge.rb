@@ -20,4 +20,3 @@ contacts["Freddy Mercury"].each do |attribute, value|
   end
   #remember to return your newly altered contacts hash!
   contacts
-end
